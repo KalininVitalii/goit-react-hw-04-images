@@ -1,5 +1,4 @@
 import {  useState, useEffect  } from 'react';
-
 import { NewsApiService } from '../Services/Api';
 import { Searchbar } from './Searchbar/Searchbar';
 import { ImageGallery } from './ImageGallery/ImageGallery';
